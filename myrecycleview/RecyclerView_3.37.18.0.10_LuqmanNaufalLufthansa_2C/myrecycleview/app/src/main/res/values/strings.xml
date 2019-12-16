@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Data Aliran Pencak Silat di Indonesia</string>
+    <string name="hmj_name">Pencak Silat</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>PSHT</item>
+        <item>Pencak Silat Pagar Nusa</item>
+        <item>Pencak Silat Kera Sakti</item>
+        <item>Pencak Silat Perisai Diri</item>
+        <item>Pencak Silat Merpati Putih</item>
+        <item>Pencak Silat Tapak Suci</item>
+        <item>Pencak Silat Cimande</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>PSHT telah ada di Indonesia sebelum Indonesia merdeka. Aliran pencak silat ini
+            didirikan tahun 1903 oleh Ki Ngabehi Soeromihardjo atau yang dikenal dengan Eyang Suro. Mulanya,
+            Eyang Suro menamakan aliran pencak silatnya Djojo Gendilo Tjipto Muljo. Pada tahun 1917,
+            ia baru mendirikan perguruan silat bernama Persaudaraan Setia Hati di Desa Winongo, Madiun</item>
+        <item>Dahulu kala, di lingkungan pesantren Nahdlatul Ulama (NU), terdapat banyak aliran silat.
+            Keberagaman tersebut membuat dibentuknya Pagar Nusa sebagai wadah perkumpulan pencak silat
+            di bawah NU tahun 1986. Di antara ragam yang ada, ada nama Pagar Nusa Gasmi,
+            Pagar Nusa Batara Perkasa, Padar Nusa Satria Perkasa Sejati (Saperti), dan lain sebagainya. </item>
+        <item>Pencak silat Kera Sakti didirikan oleh R.Totong Kiemdarto pada 1980 di Kota Madiun.
+            Pencak silat ini mengajarkan kungfu atau kuntauw (Bahasa Hokkian yang populer di Indonesia) serta jurus kera
+            aliran utara dan selatan (nan pie ho jien). Sang pendiri mempelajari gerakan tersebut dari
+            pendekar aliran kungfu China yang ada di Indonesia.</item>
+        <item>Secara resmi, Perisai Diri didirikan 2 Juli 1955 di Surabaya oleh RM Soebandiman Dirdjoatmodjo,
+            putra bangsawan Keraton Paku Alam. Sebelum mendirikan Perisai Diri secara resmi,
+            ia melatih silat di lingkungan Perguruan Taman Siswa atas permintaan Ki Hajar Dewantoro yang juga merupakan pamannya.</item>
+        <item>Himpunan Mahasiswa Jurusan Administrasi Bisnis adalah salah satu H impunan Mahasiswa Jurusan yang ada
+            di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan,
+            yang dibentuk oleh mahasiswa Jurusa n Administrasi Bisnis untuk melaksanakan kegiatan
+            Tri Dharma Perguruan Tinggi.</item>
+        <item>Unit Kegiatan Mahasiswa Polytechnic Computer Club atau biasa disin gkat UKM PCC, merupakan organisasi di Politeknik Negeri Semarang
+            yang bergerak d i bidang informasi dan teknologi. UKM Polytechnic Computer Club secara
+            eksplisit terbagi menjadi dua bagian inti, yaitu Workshop dan Organisasi.</item>
+        <item>UKM Komunitas Seni Polines merupakan satusatunya unit kegiatan mahasiswa di Politeknik Negeri Semarang yang bergerak di b idang Kesenian.
+        Nama UKM Komunitas Seni Polines diresmikan pada tanggal 21 Juni 2003. Fungsi UKM KoNSeP adalah sebagai satu
+        satunya sarana pembangunan dan penyaluran minat dan bakat Mahasiswa Polines dala m bidang seni dan berorganisasi.</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://i.postimg.cc/28zdswmT/p1.jpg</item>
+        <item>https://i.postimg.cc/fb0YcqjW/p2.jpg</item>
+        <item>https://i.postimg.cc/4d6tMKSr/p3.jpg</item>
+        <item>https://i.postimg.cc/Gh7DZnXh/p4.jpg</item>
+        <item>https://i.postimg.cc/wvQy2Ctz/p5.jpg</item>
+        <item>https://i.postimg.cc/FFGkLQ5g/p6.jpg</item>
+        <item>https://i.postimg.cc/9QwDKR4J/p7.jpg</item>
+    </string-array>
+</resources>
